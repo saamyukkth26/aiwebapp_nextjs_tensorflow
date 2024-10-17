@@ -8,19 +8,6 @@ This project demonstrates how to build an AI-powered web application using Next.
 - **Responsive UI:** Built with Next.js for server-side rendering and a responsive design.
 - **Deployment:** Instructions for deploying the application on Vercel.
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/ivansing/ai-web-app.git
-cd your-repo
-```
-
-
-```bash
-npm install
-```
 
 ## Usage
 
@@ -66,18 +53,3 @@ vercel
 ```
 
 Follow the prompts to deploy the application to Vercel. Once deployed, you will get an unique URL for your application.
-
-## Contributing
-
-Contributions are welcome! Fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under MIT License - See the LICENSE for details.
-
-## Acknowledgements
-
-- TensorFlow.js team for providing the MobileNet model and documentation.
-- Next.js community for the robust framework and helpful resources.
-
-
